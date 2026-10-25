@@ -1,4 +1,4 @@
-﻿"""Lazy Inbox view for SlothMate AI."""
+"""Lazy Inbox view for SlothMate AI."""
 import streamlit as st
 from pathlib import Path
 import shutil

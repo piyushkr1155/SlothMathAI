@@ -1,4 +1,4 @@
-﻿"""Tests for inbox processor, duplicate detection, and Sloth Mode workflow."""
+"""Tests for inbox processor, duplicate detection, and Sloth Mode workflow."""
 import pytest
 from pathlib import Path
 import tempfile

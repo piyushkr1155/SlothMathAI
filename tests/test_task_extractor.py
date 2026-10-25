@@ -1,4 +1,4 @@
-﻿"""Tests for task extraction, deadline validation, and deduplication."""
+"""Tests for task extraction, deadline validation, and deduplication."""
 import pytest
 from services.task_extractor import (
     validate_and_clean_deadline,

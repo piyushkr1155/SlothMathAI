@@ -1,4 +1,4 @@
-﻿"""Tests for local model communication, JSON parsing, and error handling."""
+"""Tests for local model communication, JSON parsing, and error handling."""
 import pytest
 from unittest.mock import patch, MagicMock
 from ai.local_model import (

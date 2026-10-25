@@ -1,4 +1,4 @@
-﻿"""Morning Briefing viewer and export interface for SlothMate AI."""
+"""Morning Briefing viewer and export interface for SlothMate AI."""
 import streamlit as st
 from datetime import datetime, date
 from storage.database import Database

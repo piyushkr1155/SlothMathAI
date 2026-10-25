@@ -1,4 +1,4 @@
-﻿"""Tests for SQLite persistence layer."""
+"""Tests for SQLite persistence layer."""
 import pytest
 from pathlib import Path
 import tempfile

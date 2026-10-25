@@ -1,4 +1,4 @@
-﻿# 🦥 SlothMate AI
+# 🦥 SlothMate AI
 
 > **"Work less. Let your local AI handle the boring stuff."**
 

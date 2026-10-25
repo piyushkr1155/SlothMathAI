@@ -1,4 +1,4 @@
-﻿"""Text and Markdown document processor for SlothMate AI."""
+"""Text and Markdown document processor for SlothMate AI."""
 import hashlib
 from pathlib import Path
 from typing import Dict, Any, Tuple

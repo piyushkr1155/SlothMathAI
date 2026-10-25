@@ -1,4 +1,4 @@
-﻿"""PDF document processor for SlothMate AI using PyMuPDF."""
+"""PDF document processor for SlothMate AI using PyMuPDF."""
 from pathlib import Path
 from typing import Dict, Any, List
 import pymupdf

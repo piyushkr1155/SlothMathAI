@@ -1,4 +1,4 @@
-﻿"""Tests for text, markdown, and PDF document processors."""
+"""Tests for text, markdown, and PDF document processors."""
 import pytest
 from pathlib import Path
 import tempfile

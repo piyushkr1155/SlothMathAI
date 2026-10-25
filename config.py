@@ -1,4 +1,4 @@
-﻿"""Configuration module for SlothMate AI."""
+"""Configuration module for SlothMate AI."""
 from pathlib import Path
 from dataclasses import dataclass, field
 from typing import Set

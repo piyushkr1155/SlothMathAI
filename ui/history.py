@@ -1,4 +1,4 @@
-﻿"""History and Archive view for SlothMate AI."""
+"""History and Archive view for SlothMate AI."""
 import streamlit as st
 from storage.database import Database
 

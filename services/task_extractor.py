@@ -1,4 +1,4 @@
-﻿"""Task extraction, normalization, and deduplication for SlothMate AI."""
+"""Task extraction, normalization, and deduplication for SlothMate AI."""
 import re
 from datetime import datetime
 from typing import List, Dict, Any, Tuple, Optional

@@ -1,4 +1,4 @@
-﻿"""Settings and Configuration interface for SlothMate AI."""
+"""Settings and Configuration interface for SlothMate AI."""
 import streamlit as st
 from pathlib import Path
 from storage.database import Database

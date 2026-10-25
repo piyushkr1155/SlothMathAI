@@ -1,4 +1,4 @@
-﻿"""Tests for briefing consolidation and markdown rendering."""
+"""Tests for briefing consolidation and markdown rendering."""
 import pytest
 from services.briefing import consolidate_briefing, format_briefing_markdown
 

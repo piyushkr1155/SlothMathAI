@@ -1,4 +1,4 @@
-﻿"""Database storage layer for SlothMate AI using SQLite."""
+"""Database storage layer for SlothMate AI using SQLite."""
 import sqlite3
 import json
 from pathlib import Path

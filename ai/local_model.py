@@ -1,4 +1,4 @@
-﻿"""Local Ollama AI model service for SlothMate AI."""
+"""Local Ollama AI model service for SlothMate AI."""
 import json
 import re
 from typing import Dict, Any, List, Optional, Tuple

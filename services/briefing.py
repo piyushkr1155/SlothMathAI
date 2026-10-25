@@ -1,4 +1,4 @@
-﻿"""Briefing generation and markdown export service for SlothMate AI."""
+"""Briefing generation and markdown export service for SlothMate AI."""
 from datetime import datetime
 from typing import Dict, Any, List, Optional
 import json

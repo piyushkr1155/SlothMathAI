@@ -1,4 +1,4 @@
-﻿"""Dashboard view for SlothMate AI."""
+"""Dashboard view for SlothMate AI."""
 import streamlit as st
 from datetime import datetime
 from storage.database import Database

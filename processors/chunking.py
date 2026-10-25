@@ -1,4 +1,4 @@
-﻿"""Text chunking utility for large documents in SlothMate AI."""
+"""Text chunking utility for large documents in SlothMate AI."""
 from typing import List, Dict, Any
 from dataclasses import dataclass
 

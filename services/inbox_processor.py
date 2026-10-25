@@ -1,4 +1,4 @@
-﻿"""Inbox processor and Sloth Mode workflow coordinator for SlothMate AI."""
+"""Inbox processor and Sloth Mode workflow coordinator for SlothMate AI."""
 from pathlib import Path
 from typing import Dict, Any, List, Optional, Callable
 from datetime import datetime, timezone

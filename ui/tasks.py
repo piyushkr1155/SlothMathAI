@@ -1,4 +1,4 @@
-﻿"""Task Dashboard ("My Tasks") view for SlothMate AI."""
+"""Task Dashboard ("My Tasks") view for SlothMate AI."""
 import streamlit as st
 from datetime import datetime
 from storage.database import Database
