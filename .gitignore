@@ -1,0 +1,29 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# SQLite databases & user data
+*.db
+*.sqlite
+*.sqlite3
+data/slothmate.db
+data/inbox/*
+!data/inbox/.gitkeep
+
+# Streamlit config / cache
+.streamlit/
+*.log
+
+# Sensitive or temp files
+.env
+*.tmp
+.DS_Store
+Thumbs.db

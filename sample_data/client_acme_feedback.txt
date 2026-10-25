@@ -1,0 +1,14 @@
+Client Account Review: Acme Industrial Logistics
+Account Lead: Sarah Jenkins
+Recorded: October 22, 2026
+
+Feedback Notes:
+Acme reported high satisfaction with the new consolidated briefing format. However, their operations director requested that all overdue tasks be flagged in red on the primary dashboard.
+
+Action Items:
+1. Sarah to schedule a 30-minute review call with Acme VP of Operations by 2026-10-29.
+2. Engineering team to confirm support for Windows PowerShell activation scripts.
+3. Follow up with billing department regarding the annual license renewal due on 2026-11-15.
+
+Uncertainties:
+Acme mentioned they might need custom export formats soon, but exact requirements have not been specified yet.
